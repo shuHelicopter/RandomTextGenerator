@@ -1,5 +1,5 @@
 # RandomTextGenerator
-@Copyright ShuHelicopter
+@Copyright ShuHelicopter  
 Random Text Generator Project with Java  
 
 This is a friendly warning for students who are currently taking CSCI455:    
