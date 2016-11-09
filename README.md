@@ -6,7 +6,7 @@
   
 For example, suppose that prefixLength = 2 and the sample file contains  
   
-* I like the big blue dog better than the big elephant with the big blue hat on his tusk.  
+#### I like the big blue dog better than the big elephant with the big blue hat on his tusk.  
 
 Here is how the first three words might be chosen:  
 1)A two-word sequence is chosen at random to become the initial prefix. Let's suppose that "the big" is chosen.  
