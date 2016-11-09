@@ -1,6 +1,6 @@
 # RandomTextGenerator
 @Copyright ShuHelicopter  
-Random Text Generator Project with Java (Markov process text generation)
+## Random Text Generator Project with Java (Markov process text generation)
 
 'For generating text, you should initially choose prefixLength consecutive words at random from the sample text and use them as the initial prefix (we'll call this a random prefix) in the random writing process outlined earlier. The program should then write numWords words to outFile. Each of these words should be chosen based on the current prefix. (Each time a word w is written to outFile, the prefix is updated by removing its first word and appending w to the end.)  
   
