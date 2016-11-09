@@ -15,7 +15,7 @@ The next word must be chosen based on the probability that it follows the prefix
 Thus, the first three words in the output text would be "blue hat on".
 
 *  
-This is one the course projects in CSCI 455.
+This is one of the course projects in CSCI 455.
 
 
 
